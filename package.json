@@ -1,0 +1,15 @@
+{
+  "name": "gmailnodejs",
+  "version": "1.0.0",
+  "description": "GmailAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "qs": "^6.10.1"
+  }
+}
